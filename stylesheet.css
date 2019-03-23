@@ -8,3 +8,18 @@ img{
   width:300px;
   hieght:200px;
 }
+
+
+
+
+
+
+
+h3{
+  color:#00ffff;
+  border-bottom:5px solid #c0c0c0
+}
+
+.footer li{
+  list-style:none;
+}
