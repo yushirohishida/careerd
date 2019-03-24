@@ -3,6 +3,9 @@
   font-size:50px;
   border-bottom:5px solid #c0c0c0
 }
+.header h2{
+  float:right;
+}
 
 img{
   width:1000px;
