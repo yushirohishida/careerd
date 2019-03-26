@@ -9,6 +9,8 @@
 }
 
 .main p{
+  float:right;
+  padding-right:800px;
   padding-bottom:30px;
 }
 
